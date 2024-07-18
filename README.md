@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amey Makarand Dhongade</h1>
-<h3 align="center">Pursuing my masters in computer science from SJSU. An enthusiastic individual with a keen interest in coding, and problem solving. I enjoy researching any topic and love to explore any possible solutions. A passionate software developer. Previously I worked as a software Engineer at Searce.</h3>
+<h3 align="center"> MSCS Grad @SJSU. An enthusiastic individual with a keen interest in coding, and problem solving. I enjoy researching any topic and love to explore any possible solutions. A passionate software developer. Previously I worked as a software Engineer at Searce.</h3>
 
 - 📫 How to reach me **ameymakarand@gmail.com**
 
